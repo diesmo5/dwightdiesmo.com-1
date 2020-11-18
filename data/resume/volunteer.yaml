@@ -1,0 +1,35 @@
+1:
+  organizationName: Hackathon By The Sea
+  organizationLocation:
+  organizationLogo: ../assets/volunteer/hackathon-by-the-sea-logo.png
+  volunteerTitle:
+  volunteerDuration:
+  volunteerDescription:
+2:
+  organizationName: Hackathon By The Sea Girls Edition
+  organizationLocation:
+  organizationLogo: ../assets/volunteer/hbts-girls-edition-logo.png
+  volunteerTitle:
+  volunteerDuration:
+  volunteerDescription:
+3:
+  organizationName: SDSU Institute of Electronics and Electrical Engineering
+  organizationLocation:
+  organizationLogo: ../assets/volunteer/ieee-logo.png
+  volunteerTitle:
+  volunteerDuration:
+  volunteerDescription:
+4:
+  organizationName: SDSU Residence Hall Association
+  organizationLocation:
+  organizationLogo: ../assets/volunteer/rha-logo.png
+  volunteerTitle:
+  volunteerDuration:
+  volunteerDescription:
+5:
+  organizationName: Camarillo Public Library
+  organizationLocation:
+  organizationLogo: ../assets/volunteer/camarillo-library-logo.png
+  volunteerTitle:
+  volunteerDuration:
+  volunteerDescription:

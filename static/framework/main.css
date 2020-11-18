@@ -1,0 +1,70 @@
+.hover-zoom {
+  /* height: 300px; [1.1] Set it as per your need */
+  overflow: hidden;
+  /* [1.2] Hide the overflowing of child elements */
+}
+
+.hover-zoom img {
+  -webkit-transition: -webkit-transform 0.5s ease;
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+}
+
+.hover-zoom img:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.hover-recolor {
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
+}
+
+.hover-recolor:hover {
+  -webkit-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+  -webkit-filter: grayscale(0%);
+          filter: grayscale(0%);
+}
+
+.fs-12 {
+  font-size: 12px;
+}
+
+.bg-one {
+  background-color: #b0cac7;
+}
+
+.bg-two {
+  background-color: #f7d6bf;
+}
+
+.bg-three {
+  background-color: #318fb5;
+}
+
+.bg-four {
+  background-color: #005086;
+}
+
+.text-one {
+  color: #b0cac7;
+}
+
+.text-two {
+  color: #f7d6bf;
+}
+
+a.text-two:hover {
+  color: #e2b493
+}
+
+.text-three {
+  color: #318fb5;
+}
+
+.text-four {
+  color: #005086;
+}
+/*# sourceMappingURL=main.css.map */

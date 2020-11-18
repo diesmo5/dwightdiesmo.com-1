@@ -1,0 +1,34 @@
+$color-one: #b0cac7;
+$color-two: #f7d6bf;
+$color-three: #318fb5;
+$color-four: #005086;
+
+@import "../framework/animation";
+@import "../framework/typography";
+
+
+.bg-one {
+    background-color: $color-one;
+}
+.bg-two {
+    background-color: $color-two;
+}
+.bg-three {
+    background-color: $color-three;
+}
+.bg-four {
+    background-color: $color-four;
+}
+
+.text-one {
+    color: $color-one;
+}
+.text-two {
+    color: $color-two;
+}
+.text-three {
+    color: $color-three;
+}
+.text-four {
+    color: $color-four;
+}
